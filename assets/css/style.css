@@ -1,0 +1,38 @@
+nav {
+  margin-right: 5rem;
+  margin-left: 5rem;
+  top: 10px;
+}
+
+body {
+  height: 0;
+}
+
+main {
+  position: relative;
+  bottom: 3rem;
+}
+
+article {
+  margin-left: 5rem;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 35px;
+}
+
+figure {
+  position: relative;
+  left: 5rem;
+  top: 110px;
+}
+
+span {
+  color: white;
+}
